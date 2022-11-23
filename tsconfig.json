@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "outDir": "APP/JS",
+        "noEmitOnError": true
+    },
+
+    "include": [
+        "APP/TS/**/*"
+    ]
+}
